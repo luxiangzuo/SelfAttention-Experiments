@@ -1,5 +1,4 @@
-# SelfAttention-Experiments
-Attention module experiments by a curious learner
+
 # SelfAttention-Experiments
 
 This is a hands-on notebook series where I implement and explore various attention mechanisms used in large language models (LLMs).
